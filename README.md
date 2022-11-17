@@ -1,8 +1,13 @@
-# node-express-vercel
-Hosting express node project on vercel
+# Steps for development
 
-### Video
-> https://youtu.be/vCuf62T2snY
+### Step 1: Clone the repository
 
-### Deployed on
-> https://node-express-vercel-rose.vercel.app/home
+### Step 2: Do "npm install" on terminal in source path
+
+### Step 3: Make changes and check through "npm run start" command for local testing
+
+### Step 4: After making sure the changes are not having problem, push the changes to see online on vercel
+
+### Step 5: If there are problems with vercel, create the fix and push it again
+
+### Step 6: After fixing the problem, push the project to the backup repository
